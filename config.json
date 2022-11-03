@@ -1,0 +1,9 @@
+{
+    "name": "Music Disc",
+    "prefix": "-",
+    "playing": "Sesuatu",
+    "defaultVolume": 50,
+    "autoLeave": true,
+    "displayVoiceState": true,
+    "port": 33333
+}
